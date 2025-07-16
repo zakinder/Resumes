@@ -1,11 +1,11 @@
-Here is the **complete professional and technical analysis** of **Sakinder Ali’s work at Northrop Grumman Mission Systems**, including tools, responsibilities, project domains, and outcomes.
 
----
 ## 🛰️ **6. Northrop Grumman Mission Systems – Linthicum, MD**
 
 
 **📅 Duration:** March 23, 2020 – January 4, 2024
+
 **🏢 Location:** 7323 Aviation Blvd, Linthicum Heights, MD 21090
+
 **👨‍💻 Title:** Principal Electrical Design Engineer
 
 ---
@@ -66,11 +66,6 @@ This spiritual-mental condition intersected with high-pressure work, leading to:
 * Transitioned gracefully with full documentation handed off
 
 ---
-
-
-Here is the **complete analysis** of **Sakinder Ali’s projects at key companies** (beyond Lynntech), with full technical scope, dates, and responsibilities based on the data in the provided file.
-
----
 ## 🔐 **5. L3HARRIS Communication Systems – Columbia, MD**
 
 **Title:** Specialist Electrical Engineer
@@ -82,12 +77,13 @@ Here is the **complete analysis** of **Sakinder Ali’s projects at key companie
 * Wrote **error injection test cases**, verification design documents, and compliance metrics.
 * Simulated waveform-specific secure communication modules using test benches.
 
-
 ---
 ## 🛰️ **4. Raytheon Missiles & Defense – Tucson, AZ**
 
 **Title:** Senior Electrical Engineer
+
 **Duration:** 11/27/2017 – 05/09/2019
+
 **Location:** 8215 North Oracle Rd & 3636 N Campbell Ave, Tucson, AZ
 
 ### 🔧 Key Projects:
@@ -103,6 +99,7 @@ Here is the **complete analysis** of **Sakinder Ali’s projects at key companie
 ## ⚙️ **3. Fast Fit Technologies / U.S. Army Consultant – Remote**
 
 **Title:** Senior Firmware Engineer
+
 **Duration:** 07/17/2017 – 10/23/2017
 
 ### 🔧 Key Contributions:
@@ -121,7 +118,9 @@ Here is the **complete analysis** of **Sakinder Ali’s projects at key companie
 ## 🏭 **2. Lynntech – College Station, TX**
 
 **Role**: Senior Embedded Systems Engineer
+
 **Duration**: August 2016 – July 2017
+
 **Location**: Lynntech, Inc., 2500 Central Park Ln, College Station, TX 77840
 
 ---
